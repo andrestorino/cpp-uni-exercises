@@ -1,0 +1,33 @@
+Aakash is very curious about numbers. One day, he was feeling bored so he decided to make a program to find all the prime numbers between L and U, Which he successfully did. Now, he notes that there are many numbers with number of digits more than one. So, to make it more challenging he modifies the numbers with number of digits more than one to single digit numbers. To do this he decided to find the sum of the digits of the number till he gets a single digit number. But, after modifying he notes that some numbers became non-prime numbers. So, then he thinks to modify those numbers to a prime number by displaying the greatest prime number less than that number. Aakash is having problem executing this by himself. Help him to solve the problem.
+
+ 
+
+Input
+The first line contains an integer T denoting the number of test cases. The description of T test cases follows:
+The second line contains two space separated integers L and U, denoting the numbers between which prime numbers have to be found. L and U are inclusive.
+ 
+
+Output
+Output displays the modified prime numbers.
+Constraints
+1 ≤ U,L ≤ 10^4
+NOTE: if sum of digits is 1, it changes to 2
+
+ 
+
+Example
+ 
+
+Input
+
+1
+
+20 40
+
+ 
+
+Output
+
+5 2 3 2
+
+ 
