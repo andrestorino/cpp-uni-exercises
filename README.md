@@ -1,2 +1,2 @@
 # cpp-uni-exercises
-Mostly UVA and CodeForces exercises for Advanced Algorithms class
+UVA Online Judge and CodeForces exercises for Advanced Algorithms class
